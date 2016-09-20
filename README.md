@@ -1,4 +1,4 @@
-[About Swift](./AboutSwift.html)
+[About Swift](https://paulbuis.github.io/Programming-Languages-Swift/AboutSwift.html)
 
 #Simple Programming Exercises in Swift
 
