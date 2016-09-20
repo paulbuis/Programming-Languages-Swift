@@ -1,3 +1,5 @@
+[About Swift](./AboutSwift.html)
+
 #Simple Programming Exercises in Swift
 
 ##Kata 0
